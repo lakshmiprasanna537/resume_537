@@ -1,7 +1,7 @@
 # Lakshmi Prasanna Nadella
 Software Developer | Portfolio: [lakshmiprasanna537.github.io](https://lakshmiprasanna537.github.io/resume_537/)
 
-## Summary	
+## Summary
 3+ Years of experience utilizing Java Tools in business, web and client-server environments including Java Platform, Enterprise Edition (Java EE), Java Servlets, Spring, Springboot and Hibernate.
 Good Knowledge in client side Technologies like JavaScript, Html, Css and Bootstrap.
 Having experience in developing Software that is reliable, well-documented and user- friendly.
