@@ -10,15 +10,15 @@ Sincere, enthusiastic and hardworking with good communication and interpersonal 
 Committed to Delivering high Quality Work.
 
 ## Skills
- * Java Technologies :	Java, Servlets,  JDBC
- * Frame work        : Spring, Hibernate, Springboot
- * Web/App Servers	  : Tomcat
- * Web Services	    : Restful webservices
- * Data bases        : Oracle, MySQL
- * IDE               : Eclipse, Sts
+ * Java Technologies :	Java, Servlets,JDBC
+ * Frame work        :  Spring, Hibernate, Springboot
+ * Web/App Servers	 :  Tomcat
+ * Web Services	     :  Restful webservices
+ * Data bases        :  Oracle, MySQL
+ * IDE               :  Eclipse, Sts
  * Web Technologies  :	HTML(FTL), Java Script, CSS,BootStrap, Jasper reports
  * Build Tools       :	Maven,Svn
- * Operating Systems	: Windows, Linux
+ * Operating Systems :  Windows, Linux
 
 ## Experience
 Infosys (November 2021 to August 2024) | Technology Analyst
