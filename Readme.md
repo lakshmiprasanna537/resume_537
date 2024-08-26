@@ -37,6 +37,7 @@ Job Title
 - Accomplishment
 
 ## Education
-**Degree** | University Name | Date Graduated
-Courses, activities, or other details
+**BTech** | Visvodaya Engineering College, JNTU Anantapur | 2014 Computer Science 71%
+**Intermediate** | Sneha Junior College, Kavali| 2010 M.P.C 87%
+**SSC** | Visvodaya Girls High School, Kavali  | 2008 85%
 
