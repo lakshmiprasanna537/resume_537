@@ -21,22 +21,16 @@ Committed to Delivering high Quality Work.
  * Operating Systems	: Windows, Linux
 
 ## Experience
-**Infosys** (November 2021 to August 2024)   
-Technology Analyst
-- Accomplishment 1
-- Accomplishment 2  
+**Infosys** (November 2021 to August 2024) | Technology Analyst
 
-**Botree Software** (March 2021 to October 2021)
-Associate Technical
-- Accomplishment 1
-- Accomplishment 2
+**Botree Software** (March 2021 to October 2021) | Associate Technical
 
 ## Projects
-Cox Mobileshop (https://www.cox.com/mobile-shop/devices)  
+1.Cox Mobileshop (https://www.cox.com/mobile-shop/devices)  
 Through the provision of the best deals, monthly plans, discounts, and exchange values, among other things, this mobile shop application gives users the best mobile experience. For consumers looking to purchase the best mobile phones with a few extra benefits, it is extremely helpful. 
-**Project 2** (link)
-- Description 
-- Accomplishment
+
+2.Botree Software (https://botreesoftware.com/)
+The goal of this project is to develop a User friendly applications to distributor and mainly focus on GST Paid, Number of credits, Number of orders placed, sub distributor etc. This application mainly targets Distributor help 
 
 ## Education
 B.Tech| Visvodaya Engineering College, JNTU Anantapur | 2014 Computer Science 71%
