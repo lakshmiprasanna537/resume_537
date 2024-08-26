@@ -14,8 +14,8 @@ Committed to Delivering high Quality Work.
  * Frame work        : Spring, Hibernate, Springboot
  * Web/App Servers	  : Tomcat
  * Web Services	    : Restful webservices
- * Data bases        : ORACLE, MYSQL
- * IDE               : Eclipse, STS
+ * Data bases        : Oracle, MySQL
+ * IDE               : Eclipse, Sts
  * Web Technologies  :	HTML(FTL), Java Script, CSS,BootStrap, Jasper reports
  * Build Tools       :	Maven,Svn
  * Operating Systems	: Windows, Linux
