@@ -2,7 +2,7 @@
 Software Developer | Portfolio: [lakshmiprasanna537.github.io](https://lakshmiprasanna537.github.io/resume_537/)
 
 ## Summary
-3+ Years of experience utilizing Java Tools in business, web and client-server environments including Java Platform, Enterprise Edition (Java EE), Java Servlets, Spring, Springboot and Hibernate.
+3+ Years of experience utilizing Java Tools in business, web and client-server environments including Java Platform, Enterprise Edition (Java EE), Java Servlets, Jdbc,Spring, Springboot and Hibernate.
 Good Knowledge in client side Technologies like JavaScript, Html, Css and Bootstrap.
 Having experience in developing Software that is reliable, well-documented and user- friendly.
 Having good implementation knowledge of Design Patterns.
@@ -16,7 +16,7 @@ Committed to Delivering high Quality Work.
  * Web Services	    : Restful webservices
  * Data bases        : ORACLE, MYSQL
  * IDE               : Eclipse, STS
- * Web Technologies  :	HTML(FTL), Java Script, CSS
+ * Web Technologies  :	HTML(FTL), Java Script, CSS,BootStrap, Jasper reports
  * Build Tools       :	Maven,Svn
  * Operating Systems	: Windows, Linux
 
@@ -26,16 +26,14 @@ Technology Analyst
 - Accomplishment 1
 - Accomplishment 2  
 
-**Company Name** (Dates)
-Job Title
+**Botree Software** (March 2021 to October 2021)
+Associate Technical
 - Accomplishment 1
 - Accomplishment 2
 
 ## Projects
 **Project 1** (link to project site or GitHub repo)  
-- Description of tech used and what the project involved/accomplished
-- Accomplishment 
-
+Through the provision of the best deals, monthly plans, discounts, and exchange values, among other things, this mobile shop application gives users the best mobile experience. For consumers looking to purchase the best mobile phones with a few extra benefits, it is extremely helpful. 
 **Project 2** (link)
 - Description 
 - Accomplishment
