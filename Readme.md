@@ -32,7 +32,7 @@ Associate Technical
 - Accomplishment 2
 
 ## Projects
-**Cox Mobileshop ** (https://www.cox.com/mobile-shop/devices)  
+Cox Mobileshop (https://www.cox.com/mobile-shop/devices)  
 Through the provision of the best deals, monthly plans, discounts, and exchange values, among other things, this mobile shop application gives users the best mobile experience. For consumers looking to purchase the best mobile phones with a few extra benefits, it is extremely helpful. 
 **Project 2** (link)
 - Description 
