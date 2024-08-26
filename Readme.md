@@ -9,16 +9,20 @@ Having good implementation knowledge of Design Patterns.
 Sincere, enthusiastic and hardworking with good communication and interpersonal skills.
 Committed to Delivering high Quality Work.
 
-
 ## Skills
-- Programming Languages: Java,Jdbc
-- Web Frameworks: Spring, Hibernate, Springboot
-- Databases: MySQL, MongoDB
-- Tools & Methods: Git, Agile, TDD, etc
+ * Java Technologies :	Java, Servlets,  JDBC
+ * Frame work        : Spring, Hibernate, Springboot
+ * Web/App Servers	  : Tomcat
+ * Web Services	    : Restful webservices
+ * Data bases        : ORACLE, MYSQL
+ * IDE               : Eclipse, STS
+ * Web Technologies  :	HTML(FTL), Java Script, CSS
+ * Build Tools       :	Maven,Svn
+ * Operating Systems	: Windows, Linux
 
 ## Experience
-**Company Name** (Dates)   
-Job Title
+**Infosys** (November 2021 to August 2024)   
+Technology Analyst
 - Accomplishment 1
 - Accomplishment 2  
 
