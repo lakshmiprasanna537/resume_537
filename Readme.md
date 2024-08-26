@@ -1,5 +1,5 @@
 # Lakshmi Prasanna Nadella
-Software Engineer | Portfolio: [https://lakshmiprasanna537.github.io](https://lakshmiprasanna537.github.io/resume_537/)
+Software Developer | Portfolio: [lakshmiprasanna537.github.io](https://lakshmiprasanna537.github.io/resume_537/)
 
 ## Summary
 1-2 sentences summarizing your professional experience and expertise
