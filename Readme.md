@@ -11,8 +11,8 @@ Committed to Delivering high Quality Work.
 
 
 ## Skills
-- Programming Languages: Python, JavaScript, etc 
-- Web Frameworks: React, Django, etc
+- Programming Languages: Java,Jdbc
+- Web Frameworks: Spring, Hibernate, Springboot
 - Databases: MySQL, MongoDB
 - Tools & Methods: Git, Agile, TDD, etc
 
